@@ -103,10 +103,10 @@
     <h2 class="emoji">📚 Author</h2>
     <p><strong>Ankit Ghosal</strong><br>MCA Candidate @ SVU (2026)<br>Passionate about data, business insights, ML and ethical AI.</p>
 
-  <!--
+  
   <h3 class="emoji">🤝 Co-Contributor</h3>
-  <p><strong>Atanu Paul</strong><br>MCA Candidate @ SVU (2026)<br>Passionate about data, web development, and business insights.</p>
-  -->
+  <p><strong>Atanu Paul - let's <a href="https://github.com/atanu3000">connect</a></strong><br>MCA Candidate @ SVU (2026)<br>Passionate about data, application development and MLOps.</p>
+ 
 </div>
 
   <div class="section">
